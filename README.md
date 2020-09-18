@@ -1,5 +1,23 @@
 # compiladores lista 1 implementacao em c++
 
+
+---
+## Compilar
+
+
+```
+g++ arquivo -o executavel
+```
+
+## Executar
+
+```
+./executavel parametros1 parametros2 ... 
+```
+
+---
+
+
 * 1.6) Um programa em C ou C ++ permite a passagem de argumentos da linha de
 comando por meio de dois parâmetros da função main:
 int main(int argc, char *argv[]) {...}
